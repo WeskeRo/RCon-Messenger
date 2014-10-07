@@ -1,2 +1,5 @@
 dzien dobry swiecie
 nie wiem co z tym dalej zrobić... :D
+
+
+testujemy sytuację w ktorej nastepuje konflikt
