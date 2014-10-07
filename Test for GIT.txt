@@ -1,4 +1,9 @@
 dzien dobry swiecie
 nie wiem co z tym dalej zrobić... :D
 
+<<<<<<< HEAD
 a zrobie sobie tutaj mały konflikcik :)
+=======
+
+testujemy sytuację w ktorej nastepuje konflikt
+>>>>>>> origin/master
